@@ -37,7 +37,7 @@ public class Main {
 				System.out.println("Exiting");
 				break;
 			default:
-				System.out.println("Pls read");
+				System.out.println("Ayy lmao");
 				break;
 			}
 		}
